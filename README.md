@@ -1,4 +1,45 @@
-![stats](https://github-readme-stats.vercel.app/api?username=krfz&theme=dark&show_icons=true)
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+</div>  
 
+<br/>  
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> <img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=161b22" alt="git logo" title="github" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="github logo" title="git" height="25" /> <img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=F05032" alt="npm logo" title="npm" height="25" /> <img src="https://img.shields.io/badge/yarn-282C34?logo=yarn&logoColor=2C8EBB" alt="yarn logo" title="yarn" height="25" /> <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" /> <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=147EFB" alt="Xcode logo" title="Xcode" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=3776AB" alt="C logo" title="C" height="25" />
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krfz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krfz&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div>
+            <a href="https://paypal.me/kaioferraz" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="left"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/foo" target="_blank" style="display: inline;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="left"
+                />
+            </a>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
