@@ -7,6 +7,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
-<div>
-    <iframe src="https://lottie.host/embed/3b58c4e9-6db7-46e9-9a52-a3be683f2010/pf6tRD3O2k.json"></iframe>
-</div>
